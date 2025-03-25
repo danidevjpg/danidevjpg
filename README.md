@@ -30,8 +30,6 @@ I'm a passionate frontend developer who loves creating beautiful, interactive, a
 
 ---
 
-### 📫 Get in touch:
+i accept:
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Portfolio](https://your-portfolio-link.com)
-- [Twitter](https://twitter.com/your-twitter-handle)
