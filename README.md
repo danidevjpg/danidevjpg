@@ -31,4 +31,4 @@ I'm a passionate frontend developer who loves creating beautiful, interactive, a
 ---
 
 ### Contact: 
-# danikyev53@gmail.com
+## danikyev53@gmail.com
