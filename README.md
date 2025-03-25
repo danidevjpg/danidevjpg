@@ -30,6 +30,5 @@ I'm a passionate frontend developer who loves creating beautiful, interactive, a
 
 ---
 
-i accept:
-![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
-
+### Contact: 
+# danikyev53@gmail.com
